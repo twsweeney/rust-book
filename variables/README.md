@@ -1,0 +1,1 @@
+[Section 3.1 tutorial](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html)
